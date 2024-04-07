@@ -251,6 +251,8 @@ img {
 }
 
 /* Team section */
+
+/* icon block */
 .team-soc-list {
   display: flex;
   gap: 24px;
@@ -342,6 +344,7 @@ img {
 }
 
 /* Portfolio */
+
 .portfolio-cover {
   position: relative;
   overflow: hidden;
